@@ -14,7 +14,7 @@ if status is-interactive
     # Alias
     alias s='ssh'
     alias firefox 'firefox -p'
-     alias quen '~/ai/llama-b11349/llama-server -m ~/ai/Qwen3.8-27B-UD-IQ4_XS.gguf -c 65536 --reasoning-effort medium --port 8080
+     alias quen '~/ai/llama-b11349/llama-server -m ~/ai/Qwen3.8-27B-UD-IQ4_XS.gguf -c 65536 --reasoning-effort medium --port 8080'
     
     # Init
     if not set -q TMUX
