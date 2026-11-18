@@ -1,4 +1,6 @@
-set relativenumber      " Display line numbers relative to the current line
+" If using fish source inside vim
+
+" set relativenumber      " Display line numbers relative to the current line
 set ignorecase          " Ignore case when searching
 set hlsearch            " Highlight search results
 syntax on               " Enable syntax highlight
@@ -46,7 +48,7 @@ map <C-v> "+P           " Paste from clipboars with CTRL + v
 set wrap                " Warp text that extends beyond the screen length
 set encoding=utf-8      " Set file encoding
 
-if filereadable(expand("~/.vimrc.plug)"))
+if filereadable(expand("~/.vimrc.plug"))
     source ~/.vimrc.plug
 endif
 
