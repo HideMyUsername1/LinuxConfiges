@@ -5,7 +5,7 @@ set ignorecase          " Ignore case when searching
 set hlsearch            " Highlight search results
 syntax on               " Enable syntax highlight
 set smartcase           " Use case-sensitive search if a single capital letter is in the search
-colorscheme desert
+colorscheme koehler     " Nice are desert evening
 
 set smartindent         " Enable smart indentation
 set autoindent          " Enable auto-indentation
@@ -72,6 +72,13 @@ endif
 "" ZZ                     Quit and save IF changes are made
 "" ZQ                     Quit and dont save
 "" I#                     Comment current line out with #
+
+" Typos correct misspelled
+"" ]s                    Highlight the next misspelled word
+"" [s                    Go to the previous misspelled word
+"" z=                    Show spell suggestions
+"" zg                    Add word to the dictionary
+"" zw                    ignore a word
 
 " Command Count Motion
 "" f(                     Go forward to the char you want here (
