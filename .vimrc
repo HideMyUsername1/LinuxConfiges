@@ -5,7 +5,7 @@ set ignorecase          " Ignore case when searching
 set hlsearch            " Highlight search results
 syntax on               " Enable syntax highlight
 set smartcase           " Use case-sensitive search if a single capital letter is in the search
-colorscheme koehler     " Nice are desert evening
+colorscheme koehler     " Nice are koehler desert evening
 
 set smartindent         " Enable smart indentation
 set autoindent          " Enable auto-indentation
