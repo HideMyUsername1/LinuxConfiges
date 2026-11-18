@@ -8,7 +8,7 @@ if status is-interactive
     set -g fish_color_comment brblack
     # path
     set -g fish_prompt_pwd_dir_length 2
-        # Faster, cleaner pager
+    # Faster, cleaner pager
     set -g fish_pager_color_prefix cyan
     set -g fish_pager_color_completion normal
     set -g fish_key_bindings fish_vi_key_bindings
