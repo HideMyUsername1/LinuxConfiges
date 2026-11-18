@@ -33,7 +33,7 @@ set scrolloff=4
 
 set wildmenu            " Auto complete for the menu access it with TAB
 
-set laststatus=2        " Improved status bar file"
+set laststatus=2        " Improved status bar file
 set completeopt=menuone " Shows in the insert mode with CTRL the completion menu
 
 set expandtab           " Convert the tab to spaces
