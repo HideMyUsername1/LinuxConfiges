@@ -24,6 +24,13 @@ cp ~/.vim/spell/en.utf-8.add ~/LinuxConfiges/.vim/spell/
 cp ~/.config/fish/config.fish ~/LinuxConfigs/
 cp ~/.tmux.conf ~/LinuxConfigs/
 ```
+## flatpak
+Discord                                       com.discordapp.Discord
+Heroic                                        com.heroicgameslauncher.hgl
+ProtonPlus                                    com.vysp3r.ProtonPlus
+High Tide                                     io.github.nokse22i.high-tide
+Signal Desktop                                org.signal.Signal
+
 # RX 7900 XTX
 https://github.com/ilya-zlobintsev/LACT
 
