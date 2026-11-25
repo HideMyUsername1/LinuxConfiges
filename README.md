@@ -24,7 +24,7 @@ cp ~/.vim/spell/en.utf-8.add ~/LinuxConfiges/.vim/spell/
 cp ~/.config/fish/config.fish ~/LinuxConfigs/
 cp ~/.tmux.conf ~/LinuxConfigs/
 ```
-## flatpak
+## Flatpak
 | Application | Package ID |
 |---|---|
 | Discord | `com.discord.Discord` |
