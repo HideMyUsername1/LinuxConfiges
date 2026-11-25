@@ -30,7 +30,7 @@ cp ~/.tmux.conf ~/LinuxConfigs/
 | Discord | `com.discord.Discord` |
 | Heroic | `com.heroicgameslauncher.hgl` |
 | ProtonPlus | `com.vysp3r.ProtonPlus` |
-| High Tide | `io.github.nok
+| High Tide | `io.github.nokse22.high-tide` |
 
 # RX 7900 XTX
 https://github.com/ilya-zlobintsev/LACT
