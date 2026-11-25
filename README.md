@@ -25,11 +25,12 @@ cp ~/.config/fish/config.fish ~/LinuxConfigs/
 cp ~/.tmux.conf ~/LinuxConfigs/
 ```
 ## flatpak
-Discord                                       com.discordapp.Discord
-Heroic                                        com.heroicgameslauncher.hgl
-ProtonPlus                                    com.vysp3r.ProtonPlus
-High Tide                                     io.github.nokse22i.high-tide
-Signal Desktop                                org.signal.Signal
+| Application | Package ID |
+|---|---|
+| Discord | `com.discord.Discord` |
+| Heroic | `com.heroicgameslauncher.hgl` |
+| ProtonPlus | `com.vysp3r.ProtonPlus` |
+| High Tide | `io.github.nok
 
 # RX 7900 XTX
 https://github.com/ilya-zlobintsev/LACT
