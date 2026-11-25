@@ -4,10 +4,12 @@ My Linux config setup
 
 # Source
 ## Tmux
+Inside tmux
 ```bash
-tmux source-file ~/.tmux.conf$
+tmux source-file ~/.tmux.conf
 ```
 ## Vim
+Inside vim
 ```bash
 :source ~/.vimrc
 ```
@@ -19,7 +21,7 @@ source ~/.config/fish/config.fish
 ```bash
 cp ~/.vimrc ~/LinuxConfigs/
 cp ~/.vim/spell/en.utf-8.add ~/LinuxConfiges/.vim/spell/
-cp ~/.config/fish/config.fish ~/LinuxConfigs/ 
+cp ~/.config/fish/config.fish ~/LinuxConfigs/
 cp ~/.tmux.conf ~/LinuxConfigs/
 ```
 # RX 7900 XTX
